@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Makanan</title>
+</head>
+<body>
+    <h2 style="text-align: center;">Resep Membuat Terang Bulan</h1>
+        <p style="font-size: 18px;">
+        <img src="terangbulan.jpg" width="250" height="200" alt="terangbulan"align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+        Bahan-bahan :
+        <ul style="list-style-type: '-'">
+            <li>7 sdm tepung terigu</li>
+            <li>3 sdm tepung beras</li>
+            <li>1 butir telur</li>
+            <li>4 sdm gula</li>
+            <li>100 ml susu cair / 15 sdm</li>
+            <li>1/2 sdt baking powder</li>
+            <li>1/4 sdt soda kue</li>
+            <li>1/4 sdt garam</li>
+            <li>1/4 sdt vanilli bubuk</li>
+        </ul>
+        Topping : 
+        <ul style="list-style-type:'-'">
+            <li>1 sdm mentega</li>
+            <li>Susu Kental Manis / SKM. (optional)</li>
+            <li>Keju parut sesuai selera (boleh meses/nutella/ovomaltine, dll)</li>
+        </ul>
+        </p>
+        <hr>
+        <h2>Langkah pembuatan : </h2>
+        <p style="font-size:18px">
+            <ol type="1">
+                <li>
+                    Siapkan wadah. Campurkan tepung terigu, tepung beras, gula, baking powder, soda kue dan vanili. Aduk hingga rata
+                    <br>
+                    <img src="L1.webp" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masukkan telur dan susu cair. Aduk lagi hingga rata. Tambahkan sedikit garam
+                    <br>
+                    <img src="L2.webp" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Panaskan teflon (saya pakai ukuran 26cm). Jika sudah panas, tuangkan adonan dan ratakan dengan agak menekan supaya terbentuk pinggiran (seperti gambar).
+                    <br>
+                    <img src="L3.webp" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Gunakan api sedang hingga kecil. Tunggu adonan sampai membentuk lubang-lubang kecil.
+                    <br>
+                    <img src="L4.webp" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Saat lubang kecil sudah rata, taburi gula sesuai selera kemudian tutup teflon. Gunakan api kecil dan tunggu sekitar 10 menit.
+                    <br>
+                    <img src="L5.webp" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Jika bagian atas sudah tidak basah maka kue sudah matang, angkat dan olesi mentega.
+                </li>
+                <li>
+                    Setelah rata, taburi keju parut dan SKM, lalu potong menjadi dua. Ambil bagian martabak dan tutupkan diatas bagian martabak satunya. Kemudian potong sesuai selera
+                </li>
+            </ol>
+        </p> 
+</body>
+</html>
